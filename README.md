@@ -35,54 +35,74 @@ Module_18 Assignment  Tableau_challenge
 
 # Analysis
 * Average time elapsed for rideable bike:
-    ![Alt text](image.png)
 
+      ![](image/image.png)
+  
     This analysis shows more electric bikes used compare to classic bike in june2023.
 * Top 10 Average time for start stations:
-    ![Alt text](image-1.png)
+
+      ![](image/image-1.png)
 
     This shows the highest average time used in liberty light rail station which is 24.20 and the lowest in Grove st. path station which is 8.54
 
 * Elapsed time between start and end stations:
      
-![Alt text](image-2.png)
-This show the highest average time between Hoboken Terminal-Hudson st and Hudson pt and south waterfront walkway which is 147.5
+       ![](image/image-2.png)
+  
+     This show the highest average time between Hoboken Terminal-Hudson st and Hudson pt and south waterfront walkway which is 147.5
 
 * Elapsed time per day:
-    ![Alt text](image-3.png)
+ 
+       ![](image/image-3.png)
+  
     This shows  sunday is the highest average time of 16.9 and the lowest on Tuesday which is 9.3
 
 * Rideable count:
-    ![Alt text](image-4.png)
+
+      ![](image/image-4.png)
+  
     This shows the count of classic bike is more than electric bike 
 
 * Membership count:
-    ![Alt text](image-5.png)
+
+      ![](image/image-5.png)
+  
     The count is higher at member type than the casual type
 
 * Top 10 station count:
-     ![Alt text](image-6.png)
+
+      ![](image/image-6.png)
+  
     This show the highest number of count is at Grove st path station and lowest count is 14 st Ferry-14 st& shipyard ln station.
 
 * Total trips/day:
-     ![Alt text](image-7.png)
+
+       ![](image/image-7.png)
 
      This analysis says that Thrusday as the highest number of count and lowest count is on monday.
 
 * Heat map between hours and days:
-    ![Alt text](image-8.png)
+
+       ![](image/image-8.png)
+  
     This heat shows that on Thrusday at evening 6pm is  having the highest number of count.
 
 * Bike count between start and end  stations:
-     ![Alt text](image-9.png)
+
+       ![](image/image-9.png)
+  
      This shows the highest number of bike count is at between south Waterfront walkway and 12 st& sinatra dr N which is 440 bikes.
 
 * Start station map:
-    ![Alt text](image-10.png)
+
+       ![](image/image-10.png)
+  
   An analysis of the start station map highlights the concentration of the most frequently used stations in Jersey City, New Jersey, primarily in the zip codes 07302 and 07310. This suggests that the residents of Jersey City utilize the bicycle-sharing service extensively, potentially due to its cost-effectiveness when compared to other transportation options, such as taxis and ride-sharing services.
 
 * End station map:    
-     ![Alt text](image-11.png)
+
+        ![](image/image-11.png)
+  
   Similar to the start station map, the end station map also illustrates a notable concentration of the most frequently used stations in Jersey City, New Jersey, indicating that residents are likely utilizing the bicycle-sharing service for their commutes to and from work.
 
 * Conclusion:
